@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Youngzblood
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
