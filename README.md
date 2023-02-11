@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Neeraj Yadav
+- 👋 
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on ...
